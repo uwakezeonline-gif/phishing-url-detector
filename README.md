@@ -2,7 +2,7 @@
 
 A Python-based command-line tool that detects phishing URLs using a rule-based risk scoring system.
 
-## 📌 Overview
+##  Overview
 This project analyzes URLs and identifies potential phishing threats based on common attack patterns such as suspicious keywords, abnormal URL structures, and hidden domains.
 
 ## 🚀 Features
@@ -13,9 +13,9 @@ This project analyzes URLs and identifies potential phishing threats based on co
 - Command-line support
 - Color-coded output for better readability
 
-## 🧠 Technologies Used
+## Technologies Used
 - Python
 - Regular Expressions (Regex)
 - CLI (Command Line Interface)
 
-## 📂 Project Structure
+## Project Structure
