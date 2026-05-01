@@ -1,0 +1,5 @@
+https://google.com
+https://secure-bank-login.com/verify-account
+http://192.168.0.1/login
+https://paypal.com.user.verify.security-update.com
+https://example.com
