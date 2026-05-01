@@ -1,0 +1,11 @@
+# requirements.txt
+# Core dependencies for Phishing URL Detection Tool
+# Standard library only — no external packages required for main.py and utils.py
+ 
+# ─── Optional: Flask web interface ───
+# Uncomment to enable the web version
+# flask>=2.3.0
+ 
+# ─── Optional: Dataset analysis ───
+# Uncomment to enable CSV/dataset testing
+# pandas>=2.0.0
